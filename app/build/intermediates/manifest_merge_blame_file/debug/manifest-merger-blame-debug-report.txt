@@ -1,0 +1,239 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="29"
+8-->E:\ActivityDemo\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->E:\ActivityDemo\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CALL_PHONE" />
+11-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:5:5-69
+11-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:5:22-66
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:6:5-66
+12-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:6:22-64
+13
+14    <queries>
+14-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:26:5-31:15
+15        <provider
+15-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:27:9-30:67
+16            android:name="com.android.car.ui.plugin.PluginNameProvider"
+16-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:28:13-72
+17            android:authorities="com.android.car.ui.plugin" />
+17-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:29:13-60
+18    </queries>
+19
+20    <application
+20-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:7:5-92:19
+21        android:allowBackup="true"
+21-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:8:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.7.0] C:\Users\Administrator\.gradle\caches\transforms-3\d8350b929b3714de8aeff944e8297ee5\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+23        android:dataExtractionRules="@xml/data_extraction_rules"
+23-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:9:9-65
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:fullBackupContent="@xml/backup_rules"
+26-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:10:9-54
+27        android:icon="@mipmap/ic_launcher"
+27-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:11:9-43
+28        android:label="测试用apk1.0"
+28-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:12:9-34
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:13:9-54
+30        android:supportsRtl="true"
+30-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:14:9-35
+31        android:testOnly="true"
+32        android:theme="@style/Theme.MyApplication" >
+32-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:15:9-51
+33        <activity
+33-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:17:9-25:20
+34            android:name="com.example.myapplication.TestActivity"
+34-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:18:13-41
+35            android:exported="false"
+35-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:19:13-37
+36            android:label="@string/title_activity_test"
+36-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:20:13-56
+37            android:theme="@style/Theme.MyApplication.NoActionBar" >
+37-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:21:13-67
+38            <meta-data
+38-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:22:13-24:36
+39                android:name="android.app.lib_name"
+39-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:23:17-52
+40                android:value="" />
+40-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:24:17-33
+41        </activity>
+42        <activity
+42-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:26:9-32:20
+43            android:name="com.example.myapplication.SettingActivity"
+43-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:27:13-44
+44            android:exported="false" >
+44-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:28:13-37
+45            <meta-data
+45-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:22:13-24:36
+46                android:name="android.app.lib_name"
+46-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:23:17-52
+47                android:value="" />
+47-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:24:17-33
+48        </activity>
+49
+50        <provider
+50-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:34:9-42:20
+51            android:name="androidx.core.content.FileProvider"
+51-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:35:13-62
+52            android:authorities="com.example.myapplication.fileprovider"
+52-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:36:13-73
+53            android:exported="false"
+53-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:37:13-37
+54            android:grantUriPermissions="true" >
+54-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:38:13-47
+55            <meta-data
+55-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:39:13-41:54
+56                android:name="android.support.FILE_PROVIDER_PATHS"
+56-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:40:17-67
+57                android:resource="@xml/file_paths" />
+57-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:41:17-51
+58        </provider>
+59
+60        <activity
+60-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:44:9-50:20
+61            android:name="com.example.myapplication.PhotoActivity"
+61-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:45:13-42
+62            android:exported="false" >
+62-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:46:13-37
+63            <meta-data
+63-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:22:13-24:36
+64                android:name="android.app.lib_name"
+64-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:23:17-52
+65                android:value="" />
+65-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:24:17-33
+66        </activity>
+67        <activity
+67-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:51:9-57:20
+68            android:name="com.example.myapplication.UpdateActivity"
+68-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:52:13-43
+69            android:exported="false" >
+69-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:53:13-37
+70            <meta-data
+70-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:22:13-24:36
+71                android:name="android.app.lib_name"
+71-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:23:17-52
+72                android:value="" />
+72-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:24:17-33
+73        </activity>
+74        <activity
+74-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:58:9-64:20
+75            android:name="com.example.myapplication.FGOWikiActivity"
+75-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:59:13-44
+76            android:exported="false" >
+76-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:60:13-37
+77            <meta-data
+77-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:22:13-24:36
+78                android:name="android.app.lib_name"
+78-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:23:17-52
+79                android:value="" />
+79-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:24:17-33
+80        </activity>
+81        <activity
+81-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:65:9-71:20
+82            android:name="com.example.myapplication.StorageActivity"
+82-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:66:13-44
+83            android:exported="false" >
+83-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:67:13-37
+84            <meta-data
+84-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:22:13-24:36
+85                android:name="android.app.lib_name"
+85-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:23:17-52
+86                android:value="" />
+86-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:24:17-33
+87        </activity>
+88        <activity
+88-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:72:9-78:20
+89            android:name="com.example.myapplication.BoadcastActivity"
+89-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:73:13-45
+90            android:exported="false" >
+90-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:74:13-37
+91            <meta-data
+91-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:22:13-24:36
+92                android:name="android.app.lib_name"
+92-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:23:17-52
+93                android:value="" />
+93-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:24:17-33
+94        </activity>
+95        <activity
+95-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:79:9-91:20
+96            android:name="com.example.myapplication.FirstActivity"
+96-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:80:13-42
+97            android:exported="true" >
+97-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:81:13-36
+98            <intent-filter>
+98-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:82:13-86:29
+99                <action android:name="android.intent.action.MAIN" />
+99-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:83:17-69
+99-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:83:25-66
+100
+101                <category android:name="android.intent.category.LAUNCHER" />
+101-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:85:17-77
+101-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:85:27-74
+102            </intent-filter>
+103
+104            <meta-data
+104-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:22:13-24:36
+105                android:name="android.app.lib_name"
+105-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:23:17-52
+106                android:value="" />
+106-->E:\ActivityDemo\app\src\main\AndroidManifest.xml:24:17-33
+107        </activity>
+108
+109        <provider
+109-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:34:9-39:71
+110            android:name="com.android.car.ui.core.CarUiInstaller"
+110-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:35:13-66
+111            android:authorities="com.example.myapplication.CarUiInstaller"
+111-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:36:13-66
+112            android:directBootAware="true"
+112-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:37:13-43
+113            android:exported="false"
+113-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:38:13-37
+114            android:process="@string/car_ui_installer_process_name" />
+114-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:39:13-68
+115        <provider
+115-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:40:9-45:79
+116            android:name="com.android.car.ui.core.SearchResultsProvider"
+116-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:41:13-73
+117            android:authorities="com.example.myapplication.SearchResultsProvider"
+117-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:42:13-73
+118            android:exported="true"
+118-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:43:13-36
+119            android:process="@string/car_ui_installer_process_name"
+119-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:44:13-68
+120            android:readPermission="com.android.car.ui.READ_SEARCH_RESULTS" />
+120-->[com.android.car.ui:car-ui-lib:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\93e23ac2c83cae320d0ca7f5ebdeee9c\transformed\jetified-car-ui-lib-2.0.0\AndroidManifest.xml:45:13-76
+121        <provider
+121-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c3d197f881b252c48be747492b1efb1f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+122            android:name="androidx.startup.InitializationProvider"
+122-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c3d197f881b252c48be747492b1efb1f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+123            android:authorities="com.example.myapplication.androidx-startup"
+123-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c3d197f881b252c48be747492b1efb1f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+124            android:exported="false" >
+124-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c3d197f881b252c48be747492b1efb1f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+125            <meta-data
+125-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c3d197f881b252c48be747492b1efb1f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+126                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+126-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c3d197f881b252c48be747492b1efb1f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+127                android:value="androidx.startup" />
+127-->[androidx.emoji2:emoji2:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\c3d197f881b252c48be747492b1efb1f\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+128            <meta-data
+128-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Administrator\.gradle\caches\transforms-3\8820bf602e0e84fb97a8432ebdbf80e6\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+129                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+129-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Administrator\.gradle\caches\transforms-3\8820bf602e0e84fb97a8432ebdbf80e6\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+130                android:value="androidx.startup" />
+130-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\Administrator\.gradle\caches\transforms-3\8820bf602e0e84fb97a8432ebdbf80e6\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+131        </provider>
+132    </application>
+133
+134</manifest>

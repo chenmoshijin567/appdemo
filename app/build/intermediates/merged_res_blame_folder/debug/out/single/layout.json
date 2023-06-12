@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/first_layout.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/first_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/fragment_test1.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/fragment_test1.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/image_item.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/image_item.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/fgowiki_layout.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/fgowiki_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/title.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/title.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/update_layout.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/update_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/setting_layout.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/setting_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/boadcast_layout.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/boadcast_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/fgoservantlist_layout.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/fgoservantlist_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/fragment_test.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/fragment_test.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/fragment_test2.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/fragment_test2.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/fruit_item.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/fruit_item.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/activity_test.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/activity_test.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/photo_layout.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/photo_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-33:/layout/storage_layout.xml",
+        "source": "com.example.myapplication.app-main-36:/layout/storage_layout.xml"
+    }
+]

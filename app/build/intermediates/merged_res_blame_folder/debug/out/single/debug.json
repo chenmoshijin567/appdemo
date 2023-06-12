@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_pretender_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/pretender_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_setting_layout.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/setting_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_avenger.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/avenger.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_assassin_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/assassin_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_mooncancer2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/mooncancer2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_image_item.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/image_item.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_rider_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/rider_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_avenger_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/avenger_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_fragment_test2.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/fragment_test2.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_pretender.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/pretender.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_saber_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/saber_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_preview3.gif.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/preview3.gif"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_fruit_item.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/fruit_item.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_lancer_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/lancer_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_preview2.gif.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/preview2.gif"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_pretender_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/pretender_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_update_layout.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/update_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_archer_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/archer_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_shielder_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/shielder_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_title.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/title.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_mooncancer_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/mooncancer_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_boadcast_layout.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/boadcast_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/xml_file_paths.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/xml/file_paths.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_gray_dot.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/gray_dot.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_alterego_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/alterego_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_white_dot.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/white_dot.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_rider_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/rider_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_fgowiki_layout.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/fgowiki_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_fragment_test.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/fragment_test.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_assassin.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/assassin.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_caster_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/caster_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_fragment_test1.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/fragment_test1.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_alterego.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/alterego.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_photo_layout.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/photo_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_mooncancer_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/mooncancer_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_berserker.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/berserker.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_font_background.jpg.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/font_background.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/xml_backup_rules.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_ruler_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/ruler_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_preview1.gif.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/preview1.gif"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_archer_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/archer_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_all_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/all_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_mooncancer.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/mooncancer.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_berserker_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/berserker_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_saber_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/saber_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_caster.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/caster.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_dot.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/dot.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_lancer.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/lancer.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_saber.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/saber.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_rider.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/rider.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_foreigner_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/foreigner_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_ruler.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/ruler.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_preview5.gif.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/preview5.gif"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_mooncancer3.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/mooncancer3.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/menu_main.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/menu/main.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_shielder_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/shielder_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_foreigner.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/foreigner.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_caster_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/caster_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_all_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/all_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_ruler_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/ruler_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_lancer_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/lancer_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_shape_10dp_corners.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/shape_10dp_corners.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_fgoservantlist_layout.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/fgoservantlist_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_avenger_2.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/avenger_2.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_assassin_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/assassin_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_alterego_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/alterego_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_archer.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/archer.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_activity_test.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/activity_test.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_first_layout.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/first_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.myapplication.app-debug-35:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_berserker_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/berserker_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_foreigner_1.png.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/foreigner_1.png"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/layout_storage_layout.xml.flat",
+        "source": "com.example.myapplication.app-main-36:/layout/storage_layout.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_preview.gif.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/preview.gif"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-34:/drawable_preview4.gif.flat",
+        "source": "com.example.myapplication.app-main-36:/drawable/preview4.gif"
+    }
+]
